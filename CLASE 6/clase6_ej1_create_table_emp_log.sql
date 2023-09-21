@@ -1,0 +1,1 @@
+CREATE TABLE EMP_LOG (id_empleado number, salary number, job_id varchar2(50), msg varchar2(200));
